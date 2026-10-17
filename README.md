@@ -4,7 +4,7 @@ Hey there! 👋 This is a classic **Paper,Rock, Scissors** game built using vani
 
 I built this project to strengthen my understanding of core JavaScript concepts like DOM manipulation, event handling, conditional logic, and state management.
 
-🚀 **Live Demo:** [https://js-rock-paper-scissors.vercel.app](https://js-rock-paper-scissors.vercel.app) *(Replace with your exact Vercel link)*
+🚀 **Live Demo:** https://js-paper-rock-scissors.vercel.app/
 
 ---
 
